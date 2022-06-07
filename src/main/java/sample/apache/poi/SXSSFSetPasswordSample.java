@@ -1,4 +1,4 @@
-package apache.poi;
+package sample.apache.poi;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.openxml4j.opc.OPCPackage;

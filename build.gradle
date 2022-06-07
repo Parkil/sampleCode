@@ -10,11 +10,16 @@ repositories {
 }
 
 dependencies {
+    implementation 'org.junit.jupiter:junit-jupiter:5.8.1'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.2'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
 
     implementation 'org.apache.poi:poi:5.2.2'
     implementation 'org.apache.poi:poi-ooxml:5.2.2'
+
+    // sample.email
+    implementation 'jakarta.mail:jakarta.mail-api:2.1.0'
+    implementation 'com.sun.mail:smtp:2.0.1'
 
     implementation 'org.slf4j:slf4j-api:1.7.36'
     implementation 'org.slf4j:jcl-over-slf4j:1.7.36'
