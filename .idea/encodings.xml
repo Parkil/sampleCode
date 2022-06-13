@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/apache/poi/excel/SXSSFSetPasswordSample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/apache/poi/word/template.docx" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/calendar/CalendarTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/tree/BreadthFirstTreeIterator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/tree/DepthFirstTreeIterator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/tree/JavaTree.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/tree/TestExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/tree/TraversalStrategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/tree/TreeNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sample/xpath/data_tree.xml" charset="x-windows-949" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
